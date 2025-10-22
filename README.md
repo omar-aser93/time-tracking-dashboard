@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/omar-aser93/time-tracking-dashboard)
-- Live Site URL: ()
+- Live Site URL: (https://omar-aser93.github.io/time-tracking-dashboard/)
 
 ## My process
 
